@@ -1,0 +1,5 @@
+{"prompt": "Summarize the key risks for a startup hiring a new engineering lead.", "difficulty": "medium", "category": "analysis"}
+{"prompt": "Write a concise release note for a bug fix in a payment service.", "difficulty": "easy", "category": "writing"}
+{"prompt": "Explain the trade-offs between using a vector database vs a relational database for enterprise search.", "difficulty": "hard", "category": "reasoning"}
+{"prompt": "Draft a short incident update to users after a temporary outage.", "difficulty": "medium", "category": "writing"}
+{"prompt": "Compare three agent architectures for document processing workflows.", "difficulty": "hard", "category": "analysis"}
